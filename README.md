@@ -1,6 +1,6 @@
 # Hi, I'm Max
 
-I'm a software developer at [Arm](https://www.arm.com/en).
+I'm a software engineer at [Arm](https://www.arm.com/en).
 
 I don't know how much I will use this account as it was previously just used for old school projects, but if i have any side projects they will be probably be on here.
 
